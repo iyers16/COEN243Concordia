@@ -1,0 +1,19 @@
+18
+Maria Rodriguez 1 09/04/2000 2.8 2020 24 B
+Sarah Haddad 2 25/09/1999 3.1 2019 140 B
+Julia Blais 3 24/11/1997 3.2 2017 12 M
+Mohamed Osman 4 16/05/1996 4.1 2016 16 M
+Greg Parker 5 03/08/1995 4.2 2020 6 P
+Sofia Bitar 6 17/04/1994 3.3 2018 12 P
+Fallon Carrington 7 06/01/2001 3.4 2021 40 B
+Sam Flores 8 03/06/1999 2.7 2020 65 B
+Joseph Anders 9 24/04/1997 3.5 2019 20 B
+Damon Salvatore 10 10/10/1990 3.7 2011 16 M
+Klaus Michealson 11 12/05/1997 2.5 2015 120 B
+Hayley Marshall 12 29/12/1993 3.6 2014 10 P
+Danielle Gomez 13 05/10/1995 4.0 2015 70 B
+Liam Tremblay 14 26/10/2001 2.4 2020 14 B
+Peter White 15 14/02/2000 3.0 2019 30 B
+John Smith 16 04/04/1998 4.3 2018 24 B
+Jane Doe 17 19/12/1999 2.1 2019 3 P
+Mary Rogers 18 05/07/1999 2.6 2019 13 M

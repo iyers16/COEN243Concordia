@@ -1,0 +1,7 @@
+6
+Maria Rodriguez 1 09/04/2000 2.8 2020 24 B
+Sarah Haddad 2 25/09/1999 3.1 2019 140 B
+Julia Blais 3 24/11/1997 3.2 2017 12 M
+Mohamed Osman 4 16/05/1996 4.1 2016 16 M
+Greg Parker 5 03/08/1995 4.2 2020 6 P
+Sofia Bitar 6 17/04/1994 3.3 2018 12 P
