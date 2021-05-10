@@ -5,6 +5,8 @@
 #include <string>
 #include <fstream>
 #include <vector>
+#include "student.h"
+
 using namespace std;
 
 class Faculty
