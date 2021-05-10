@@ -25,7 +25,7 @@ Faculty::Faculty()
   if(file.is_open())
   {
     int i = 0;
-    while(getline(file, line))
+    while(getline(file, line) && !line.empty())
     {
       if (num == 0)
       {
@@ -63,7 +63,7 @@ Faculty::Faculty()
   if(file.is_open())
   {
     int i = 0;
-    while(getline(file, line))
+    while(getline(file, line) && !line.empty())
     {
       if (num == 0)
       {
@@ -102,7 +102,7 @@ Faculty::Faculty()
   if(file.is_open())
   {
     int i = 0;
-    while(getline(file, line))
+    while(getline(file, line) && !line.empty())
     {
       if (num == 0)
       {
