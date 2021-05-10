@@ -4,7 +4,6 @@
 #include <string>
 #include <vector>
 #include <fstream>
-#include <bits/stdc++.h>
 #include <sstream>
 using namespace std;
 
