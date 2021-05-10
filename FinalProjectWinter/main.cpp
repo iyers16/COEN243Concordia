@@ -7,7 +7,7 @@
 #include "faculty.h"
 using namespace std;
 
-int main()
+int main(int argc, char ** argv)
 {
   //Create Faculty Object
   Faculty Engineering;
@@ -81,7 +81,7 @@ int main()
     cout << "Populating Students..."<<endl;
     cout <<endl;
     int i = 0;
-    while(getline(file, line))
+    while(getline(file, line) && !line.empty())
     {
       if (num == 0)
       {
